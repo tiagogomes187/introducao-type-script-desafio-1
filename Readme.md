@@ -1,5 +1,5 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+desenvolvido por [Tiago Gomes](https://www.tiagogomes.dev.br/)
 
 #### Projeto desenvolvido com conceitos básicos de typescript
 
